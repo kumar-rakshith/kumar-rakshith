@@ -10,3 +10,16 @@
 
 
 
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-rakshith&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=kumar-rakshith&theme=react&hide_border=true&include_all_commits=false&count_private=false" /><br>
+  <img src="https://git-stats-plum.vercel.app/api/wakatime?username=kumar-rakshith&layout=compact&theme=react&hide_border=true" /><br>
+</div>
+
+<br>
+<hr>
+
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=kumar-rakshith&style=for-the-badge" />
+</div>
