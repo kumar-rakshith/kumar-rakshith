@@ -23,3 +23,22 @@
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=kumar-rakshith&style=for-the-badge" />
 </div>
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> My Statistics
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kumar-rakshith&theme=chartreuse-dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kumar-rakshith&theme=chartreuse-dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kumar-rakshith&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+  </td>
+</tr>
+</table>
