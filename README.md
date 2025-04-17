@@ -1,4 +1,5 @@
-<div align="center"> <img src="" alt="Welcome Banner" width="100%" /> </div>
+<div align="center"> <img src="https://github.com/user-attachments/assets/ed457759-4d01-4c1d-aa40-5f73b4c914ff
+" alt="Welcome Banner" width="100%" /> </div>
 <div align="center">
    <h1>Hi 👋 I'm Rakshith Kumar</h1>
    <h3>React.js Developer ⚛️ | Web Development Enthusiast 🌐 | Lifelong Learner 🌱</h3>
