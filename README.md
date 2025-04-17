@@ -13,7 +13,8 @@
 </div>
 <br> 
 <div align="center">
-   <h2>🌟 <a href="https://github.com/user-attachments/files/19792153/RAKSHITH.KUMA.PI.1.pdf" target="_blank">View My Resume</a></h2>
+   <h2>🌟 <a href="https://drive.google.com/file/d/FILE_ID/view" target="_blank">View My Resume</a>
+</h2>
    <p>Discover more about my skills, expertise, and experience by checking out my resume. Let’s create something amazing together!</p>
 </div>
 
