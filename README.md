@@ -33,8 +33,8 @@
   <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>&emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>&emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>&emsp;
-  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>&emsp;
-  <a href="https://www.java.com/" title="Java"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+   <a href="https://www.java.com/" title="Java"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>&emsp;
+  <a href="https://www.php.net/" title="PHP"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
 
   <!-- Frontend Frameworks & Libraries -->
   <h3>Frontend Frameworks & Libraries</h3>
@@ -53,8 +53,7 @@
   <a href="https://expressjs.com/" title="Express.js"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" /></a>&emsp;
   <a href="https://nestjs.com/" title="NestJS"><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" /></a>&emsp;
   <a href="https://graphql.org/" title="GraphQL"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" /></a>&emsp;
-  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /></a>&emsp;
-  <a href="https://hono.dev/" title="Hono"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Hono" /></a>
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /></a>
 
   <!-- Databases -->
   <h3>Databases</h3>
@@ -64,6 +63,13 @@
   <a href="https://firebase.google.com/" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>&emsp;
   <a href="https://supabase.com/" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a>
 
+  <!-- CMS & Website Builders -->
+  <h3>CMS & Website Builders</h3>
+  <a href="https://wordpress.org/" title="WordPress"><img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" /></a>&emsp;
+  <a href="https://elementor.com/" title="Elementor"><img src="https://skillicons.dev/icons?i=figma" alt="Elementor" /></a>&emsp;
+  <a href="https://woocommerce.com/" title="WooCommerce"><img src="https://skillicons.dev/icons?i=shopify" alt="WooCommerce" /></a>&emsp;
+  <a href="https://webflow.com/" title="Webflow"><img src="https://skillicons.dev/icons?i=webflow" alt="Webflow" /></a>
+
   <!-- DevOps & Cloud -->
   <h3>DevOps & Cloud Platforms</h3>
   <a href="https://vercel.com/" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /></a>&emsp;
@@ -71,9 +77,7 @@
   <a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>&emsp;
   <a href="https://azure.microsoft.com/" title="Azure"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" /></a>&emsp;
   <a href="https://cloud.google.com/" title="Google Cloud"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" /></a>&emsp;
-  <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>&emsp;
-  <a href="https://kubernetes.io/" title="Kubernetes"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>&emsp;
-  <a href="https://nginx.org/" title="Nginx"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>
+  <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
 
   <!-- Tools & Workflow -->
   <h3>Tools & Workflow</h3>
@@ -84,17 +88,16 @@
   <a href="https://prettier.io/" title="Prettier"><img src="https://skillicons.dev/icons?i=prettier" alt="Prettier" /></a>&emsp;
   <a href="https://www.figma.com/" title="Figma"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>&emsp;
   <a href="https://postman.com/" title="Postman"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>&emsp;
-  <a href="https://pnpm.io/" title="pnpm"><img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm" /></a>&emsp;
   <a href="https://vitejs.dev/" title="Vite"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
 
-  <!-- Emerging & AI Tools -->
-  <h3>Emerging & AI Tools</h3>
+  <!-- AI & Emerging Tools -->
+  <h3>AI & Emerging Tools</h3>
   <a href="https://openai.com/" title="OpenAI"><img src="https://skillicons.dev/icons?i=ai" alt="AI Tools" /></a>&emsp;
   <a href="https://huggingface.co/" title="Hugging Face"><img src="https://skillicons.dev/icons?i=python" alt="Hugging Face" /></a>&emsp;
   <a href="https://threejs.org/" title="Three.js"><img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" /></a>&emsp;
-  <a href="https://webflow.com/" title="Webflow"><img src="https://skillicons.dev/icons?i=webflow" alt="Webflow" /></a>&emsp;
-  <a href="https://spline.design/" title="Spline 3D"><img src="https://skillicons.dev/icons?i=blender" alt="Spline" /></a>
+  <a href="https://spline.design/" title="Spline 3D"><img src="https://skillicons.dev/icons?i=blender" alt="Spline 3D" /></a>
 </div>
+
 
 <br> 
 
